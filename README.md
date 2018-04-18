@@ -1,2 +1,2 @@
-# _dss_selfstudy
-DSS7TH_selfstudy folder (programming, mathmatics)
+# fast_campus-datascience_school_7th
+selfstudy folder (programming, mathmatics)
