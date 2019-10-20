@@ -1,2 +1,2 @@
 # fast_campus-datascience_school_7th
-selfstudy folder (programming, mathmatics)
+programming and mathmatics self-study for data science
